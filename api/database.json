@@ -1,0 +1,72 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Summer",
+      "last_name": "Rainault",
+      "job_title": "Junior Developer",
+      "departmentId": 1,
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Barry",
+      "last_name": "Allen",
+      "job_title": "CSI",
+      "departmentId": 2,
+      "computerId": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Joseph",
+      "last_name": "West",
+      "job_title": "Detective",
+      "departmentId": 3,
+      "computerId": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Julian",
+      "last_name": "Albert",
+      "job_title": "CSI -- Metahuman Crimes",
+      "departmentId": 2,
+      "computerId": 4
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "make": "Asus",
+      "model": "VivoBook"
+    },
+    {
+      "id": 3,
+      "make": "Dell",
+      "model": "Desktop"
+    },
+    {
+      "id": 2,
+      "make": "RaspberryPi",
+      "model": "Model 3-B"
+    },
+    {
+      "id": 4,
+      "make": "Apple",
+      "model": "iBook"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "dept_name": "Information Technology"
+    },
+    {
+      "id": 2,
+      "dept_name": "Crime Scene Investigation"
+    },
+    {
+      "id": 3,
+      "dept_name": "Investigation"
+    }
+  ]
+}
